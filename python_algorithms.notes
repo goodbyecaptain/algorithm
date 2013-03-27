@@ -1,0 +1,13 @@
+Two main topics:
+- asymptotic notation
+- ways of representing trees and graphs in Python
+
+Some Core Ideas in Computing
+图灵机：A Turing machine is a simple (abstract) device that can read from, write to, and move along an infinitely long strip of paper.
+有限状态机：A finite state machine has a finite set of states and every symbol it reads potentially triggers reading and/or writing and switching to a different state. 有限状态机可以看成是一系列规则（rules）。
+算法：An algorithm is procedure, consisting of a finite set of steps (possibly including loops and conditions) that solves a given problem in finite time.
+随机访问机（random-access machine）：The machine is an abstract, simplified version of a standard, single-processor computer, with the following properties:
+-
+-
+-
+问题：A problem is a relation between input and output. The inputs are called problem instances, and the relation itself is the actual problem.
