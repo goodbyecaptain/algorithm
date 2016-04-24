@@ -1,6 +1,6 @@
 import edu.princeton.cs.algs4.*;
 
-public class PrintFibonacii
+public class PrintFibonacci
 {
 	public static void main(String[] args)
 	{
