@@ -29,7 +29,7 @@ public class Fibonacci
 	}
 
 	public static void main(String[] args) {
-		for (int N = 0; N < 1000; N++) {
+		for (int N = 0; N < 100; N++) {
 			StdOut.println(N + " " + F(N));
 		}
 	}
